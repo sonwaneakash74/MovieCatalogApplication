@@ -1,4 +1,4 @@
-package io.javabrains.moviecatalogservice;
+package io.com.moviecatalogservice;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
